@@ -1,0 +1,12 @@
+body{
+	background: black;
+	margin: 100px;
+}
+p{
+	color: #eeeeee;
+}
+.keywords{
+	display: none;
+	background: red;
+	height: 100px;
+}
